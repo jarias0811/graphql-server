@@ -1,7 +1,5 @@
 'use strict';
-import {
-    Album
-} from '../models/album';
+import Album from '../models/album';
 
 const AlbumResolvers = {
     Mutation: {
